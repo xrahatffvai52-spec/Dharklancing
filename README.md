@@ -1,4 +1,3 @@
 # Dharklancing
 
-**Overview:**
-Dharklancing is a freelancing platform designed to connect clients with skilled freelancers across various domains, offering a seamless way to collaborate on projects efficiently.
+This is the README file for the Dharklancing project. It provides an overview of the project and guides for installation, usage, and contribution.
